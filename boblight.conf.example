@@ -24,12 +24,12 @@ adjust      1
 [color]
 name        green
 rgb         00FF00
-adjust      1
+adjust      0.7
 
 [color]
 name        blue
 rgb         0000FF
-adjust      0.4
+adjust      0.3
 
 [light]
 name         right
