@@ -54,7 +54,7 @@ If you have any other LED-Stips (like **[+5V,Gnd,Gnd,Data In]**), this project w
 
 You need the [Arduino EAGLE](http://arduino.cc/en/Main/arduinoBoardUno) - Files to be able to open the diagram.
 
-## Requirements:
+## Requirements
 
 #### Arduino
 [SoftPWM](https://code.google.com/p/rogue-code/wiki/SoftPWMLibraryDocumentation)
@@ -63,3 +63,7 @@ You need the [Arduino EAGLE](http://arduino.cc/en/Main/arduinoBoardUno) - Files 
 [XBMC](http://xbmc.org/)  
 [Boblight](https://code.google.com/p/boblight/wiki/Compiling)  
 [XBMC Boblight](http://forum.xbmc.org/showthread.php?tid=116331)  
+
+## License
+
+The MIT License (MIT)
